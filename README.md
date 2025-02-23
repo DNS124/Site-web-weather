@@ -1,5 +1,4 @@
 # Site-web-weather
-Site web cu vremea din Romania
+A web site with weather from Romania.
 
-
-Exista site ul si pe Netlify: https://effortless-lolly-8d3526.netlify.app/
+This site is olso on Netlify: https://effortless-lolly-8d3526.netlify.app/
